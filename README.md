@@ -1,5 +1,8 @@
 # Genious Coders
 
+![License](https://img.shields.io/badge/license-MIT-blue.svg) ![Last Commit](https://img.shields.io/github/last-commit/Alaashamel/Genious-Coders)
+
+
 Genious Coders — a Code project by Alaashamel.
 
 ## ✨ Features
